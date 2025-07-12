@@ -4,7 +4,8 @@ A modern, responsive React dashboard for exploring SpaceX launches, rockets, and
 
 ## 🚀 Live Demo
 
-[Live Demo](https://interview-for-suhani-kapasiya-3prjtk1bi.vercel.app/)
+[Live Demo](https://interview-for-suhani-kapasiya-eta.vercel.app/)
+
 
 
 ## 🚀 Features
@@ -57,10 +58,10 @@ src/
 ### Installation
 
 1. Clone the repository:
+1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/spacex-dashboard.git
+git clone https://github.com/SuhaniKapasiya/interview-for-suhani-kapasiya.git
 cd spacex-dashboard
-```
 
 2. Install dependencies:
 ```bash
